@@ -1,4 +1,4 @@
 AddEventHandler('onClientMapStart', function()
-	SetTimecycleModifier("v_dark")
-            SetTimecycleModifierStrength(0.3)
+	SetTimecycleModifier("WATER_salton_bottom")
+            SetTimecycleModifierStrength(1.5)
 end)
